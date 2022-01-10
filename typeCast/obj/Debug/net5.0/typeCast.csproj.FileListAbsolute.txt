@@ -1,0 +1,15 @@
+D:\Learn .NET\Lession1\typeCast\bin\Debug\net5.0\typeCast.exe
+D:\Learn .NET\Lession1\typeCast\bin\Debug\net5.0\typeCast.deps.json
+D:\Learn .NET\Lession1\typeCast\bin\Debug\net5.0\typeCast.runtimeconfig.json
+D:\Learn .NET\Lession1\typeCast\bin\Debug\net5.0\typeCast.runtimeconfig.dev.json
+D:\Learn .NET\Lession1\typeCast\bin\Debug\net5.0\typeCast.dll
+D:\Learn .NET\Lession1\typeCast\bin\Debug\net5.0\ref\typeCast.dll
+D:\Learn .NET\Lession1\typeCast\bin\Debug\net5.0\typeCast.pdb
+D:\Learn .NET\Lession1\typeCast\obj\Debug\net5.0\typeCast.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn .NET\Lession1\typeCast\obj\Debug\net5.0\typeCast.AssemblyInfoInputs.cache
+D:\Learn .NET\Lession1\typeCast\obj\Debug\net5.0\typeCast.AssemblyInfo.cs
+D:\Learn .NET\Lession1\typeCast\obj\Debug\net5.0\typeCast.csproj.CoreCompileInputs.cache
+D:\Learn .NET\Lession1\typeCast\obj\Debug\net5.0\typeCast.dll
+D:\Learn .NET\Lession1\typeCast\obj\Debug\net5.0\ref\typeCast.dll
+D:\Learn .NET\Lession1\typeCast\obj\Debug\net5.0\typeCast.pdb
+D:\Learn .NET\Lession1\typeCast\obj\Debug\net5.0\typeCast.genruntimeconfig.cache

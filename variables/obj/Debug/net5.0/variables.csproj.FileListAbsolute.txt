@@ -1,0 +1,16 @@
+D:\Learn .NET\Lession1\variables\bin\Debug\net5.0\variables.exe
+D:\Learn .NET\Lession1\variables\bin\Debug\net5.0\variables.deps.json
+D:\Learn .NET\Lession1\variables\bin\Debug\net5.0\variables.runtimeconfig.json
+D:\Learn .NET\Lession1\variables\bin\Debug\net5.0\variables.runtimeconfig.dev.json
+D:\Learn .NET\Lession1\variables\bin\Debug\net5.0\variables.dll
+D:\Learn .NET\Lession1\variables\bin\Debug\net5.0\ref\variables.dll
+D:\Learn .NET\Lession1\variables\bin\Debug\net5.0\variables.pdb
+D:\Learn .NET\Lession1\variables\obj\Debug\net5.0\variables.csproj.AssemblyReference.cache
+D:\Learn .NET\Lession1\variables\obj\Debug\net5.0\variables.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn .NET\Lession1\variables\obj\Debug\net5.0\variables.AssemblyInfoInputs.cache
+D:\Learn .NET\Lession1\variables\obj\Debug\net5.0\variables.AssemblyInfo.cs
+D:\Learn .NET\Lession1\variables\obj\Debug\net5.0\variables.csproj.CoreCompileInputs.cache
+D:\Learn .NET\Lession1\variables\obj\Debug\net5.0\variables.dll
+D:\Learn .NET\Lession1\variables\obj\Debug\net5.0\ref\variables.dll
+D:\Learn .NET\Lession1\variables\obj\Debug\net5.0\variables.pdb
+D:\Learn .NET\Lession1\variables\obj\Debug\net5.0\variables.genruntimeconfig.cache

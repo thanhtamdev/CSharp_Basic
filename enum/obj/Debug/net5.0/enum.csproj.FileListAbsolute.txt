@@ -1,0 +1,16 @@
+D:\Learn .NET\Lession1\enum\bin\Debug\net5.0\enum.exe
+D:\Learn .NET\Lession1\enum\bin\Debug\net5.0\enum.deps.json
+D:\Learn .NET\Lession1\enum\bin\Debug\net5.0\enum.runtimeconfig.json
+D:\Learn .NET\Lession1\enum\bin\Debug\net5.0\enum.runtimeconfig.dev.json
+D:\Learn .NET\Lession1\enum\bin\Debug\net5.0\enum.dll
+D:\Learn .NET\Lession1\enum\bin\Debug\net5.0\ref\enum.dll
+D:\Learn .NET\Lession1\enum\bin\Debug\net5.0\enum.pdb
+D:\Learn .NET\Lession1\enum\obj\Debug\net5.0\enum.csproj.AssemblyReference.cache
+D:\Learn .NET\Lession1\enum\obj\Debug\net5.0\enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn .NET\Lession1\enum\obj\Debug\net5.0\enum.AssemblyInfoInputs.cache
+D:\Learn .NET\Lession1\enum\obj\Debug\net5.0\enum.AssemblyInfo.cs
+D:\Learn .NET\Lession1\enum\obj\Debug\net5.0\enum.csproj.CoreCompileInputs.cache
+D:\Learn .NET\Lession1\enum\obj\Debug\net5.0\enum.dll
+D:\Learn .NET\Lession1\enum\obj\Debug\net5.0\ref\enum.dll
+D:\Learn .NET\Lession1\enum\obj\Debug\net5.0\enum.pdb
+D:\Learn .NET\Lession1\enum\obj\Debug\net5.0\enum.genruntimeconfig.cache
